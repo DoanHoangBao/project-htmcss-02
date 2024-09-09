@@ -227,6 +227,8 @@ a {
 }
 
 .hero .row-bottom {
+    margin-top: 8px;
+    display: flex;
     column-gap: 28px;
 }
 
@@ -652,6 +654,7 @@ a {
     grid-template-columns: repeat(4, 1fr);
     border-bottom: 1px solid #59554b;
     padding-bottom: 38px;
+    column-gap: 145px;
 }
 
 .footer .logo {
